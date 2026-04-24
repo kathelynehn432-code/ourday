@@ -1,0 +1,26 @@
+{
+  "name": "我们的周年倒数",
+  "short_name": "周年倒数",
+  "description": "68天倒数，每天拆一个小盒子，直到我们的一周年。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FDF9F3",
+  "theme_color": "#FDF9F3",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 192 192%22><rect width=%22192%22 height=%22192%22 rx=%2242%22 fill=%22%23FDF9F3%22/><path d=%22M96 150 C36 108 42 54 74 54 C86 54 96 66 96 66 C96 66 106 54 118 54 C150 54 156 108 96 150 Z%22 fill=%22%23D97E5F%22/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 512 512%22><rect width=%22512%22 height=%22512%22 rx=%22112%22 fill=%22%23FDF9F3%22/><path d=%22M256 400 C96 288 112 144 198 144 C230 144 256 176 256 176 C256 176 282 144 314 144 C400 144 416 288 256 400 Z%22 fill=%22%23D97E5F%22/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
